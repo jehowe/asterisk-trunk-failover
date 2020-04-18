@@ -1,4 +1,4 @@
-# asterisk-trunk-failover by Jeff Howe
+# asterisk-trunk-failover - jeff@jhowe.net
 Automation of outgoing trunk failover routing.
 
 This code is only part of the extensions.conf file and intended to provide a failover method
